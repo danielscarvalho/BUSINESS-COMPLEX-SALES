@@ -10,7 +10,7 @@ Pre-sales engineering is required in order to define resources (people, telecom 
 - Design Sprint - Design Thinking (prototyping)
 - PMI - Preliminary project design (High-Level Gantt Chart and/or WBS - Work breakdown structure)
 - BPMN - Business Process Model and Notation
-- ERM - Entity–relationship model
+- ERM - Entity–relationship model and/or Class Diagram
 - System Architecture Diagram
 - UML - Unified Modeling Language
 
