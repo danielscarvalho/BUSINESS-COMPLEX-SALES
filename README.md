@@ -21,7 +21,9 @@ Pre-sales engineering is high cost. It can be an initial design, scope, and requ
 
 <img src="https://m.media-amazon.com/images/I/41XO-uTq-tL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" width="300px">
 
-<img src="" width="300px">
+- The Challenger Sale: Taking Control of the Customer Conversation by Matthew Dixon, Brent Adamson, 2011
+
+<img src="https://m.media-amazon.com/images/P/1591844355.01._SCLZZZZZZZ_SX500_.jpg" width="300px">
 
 <img src="" width="300px">
 
