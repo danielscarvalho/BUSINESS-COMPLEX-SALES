@@ -27,8 +27,10 @@ You need to do a pre-sales engineering in order to define resources (people, tel
 
 <img src="https://m.media-amazon.com/images/I/61+A4-XALIL.jpg" width="300px">
 
-Marketing 4.0: Moving from Traditional to Digital by Hermawan Kartajaya, Philip Kotler
+- Marketing 4.0: Moving from Traditional to Digital by Hermawan Kartajaya, Philip Kotler
 
 <img src="https://m.media-amazon.com/images/I/51El3NISiLL.jpg" width="300px">
 
-<img src="" width="300px">
+- Hacking Growth by Sean Ellis and Morgan Brown
+
+<img src="https://m.media-amazon.com/images/I/514qnzJ6q1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="300px">
