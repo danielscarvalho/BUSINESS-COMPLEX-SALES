@@ -14,6 +14,7 @@ Pre-sales engineering is required in order to define resources (people, telecom 
 - System Architecture Diagram
 - UML - Unified Modeling Language
 - Mind map
+- Data-flow diagram
 
 Pre-sales engineering is high cost. It can be an initial design, scope, and requirement-gathering project.
 
