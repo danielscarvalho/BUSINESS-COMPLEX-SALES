@@ -21,7 +21,9 @@ You need to do a pre-sales engineering in order to define resources (people, tel
 
 <img src="" width="300px">
 
-## Business Books (Marketing should be really related to sales)
+## Business Books
+
+Marketing should be really related and working toguether with sales
 
 - Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers by Alexander Osterwalder, Yves Pigneur, Tim Clark, 2010
 
