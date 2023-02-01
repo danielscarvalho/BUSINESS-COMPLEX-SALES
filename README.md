@@ -25,7 +25,13 @@ Pre-sales engineering is high cost. It can be an initial design, scope, and requ
 
 <img src="https://m.media-amazon.com/images/P/1591844355.01._SCLZZZZZZZ_SX500_.jpg" width="300px">
 
-<img src="" width="300px">
+- The Disney Way, Revised Edition: Harnessing the Management Secrets of Disney in Your Company by Bill Capodagli, Lynn Jackson, 2006
+
+<img src="https://m.media-amazon.com/images/I/51uexpnpxiL._SX333_BO1,204,203,200_.jpg" width="300px">
+
+- How To Win Friends and Influence People by Dale Carnegie
+
+<img src="https://user-images.githubusercontent.com/916663/216188482-cd954291-a133-4b97-9bf9-39f09f38bb28.png" width="300px">
 
 ## Business Books
 
