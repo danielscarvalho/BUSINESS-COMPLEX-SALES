@@ -13,7 +13,7 @@ You need to do a pre-sales engineering in order to define resources (people, tel
 - ERM - Entity–relationship model
 - System Architecture Diagram
 
-Pre-sales engineering is high cost, it can be an initial design, scope, and requirement-gathering project.
+Pre-sales engineering is high cost. It can be an initial design, scope, and requirement-gathering project.
 
 ## Sales Books
 
