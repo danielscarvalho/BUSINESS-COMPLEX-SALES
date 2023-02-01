@@ -3,7 +3,7 @@ References about business and complex sales for computer science and engineering
 
 Selling softwares and IT projects is hard, it is complex sales.
 
-You need to do a pre-sales engineering in order to define resources (people, telecom and network, security, solftware and hardware), time and cost involved.Design Sprint - Design Thinking (prototyping)
+Pre-sales engineering is required in order to define resources (people, telecom and network, security, solftware and hardware), time and investiment. 
 
 ## Pre-sales engineering tools:
 
