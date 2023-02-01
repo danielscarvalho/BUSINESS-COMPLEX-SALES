@@ -12,6 +12,7 @@ Pre-sales engineering is required in order to define resources (people, telecom 
 - BPMN - Business Process Model and Notation
 - ERM - Entity–relationship model
 - System Architecture Diagram
+- UML - Unified Modeling Language
 
 Pre-sales engineering is high cost. It can be an initial design, scope, and requirement-gathering project.
 
