@@ -17,7 +17,9 @@ Pre-sales engineering is high cost. It can be an initial design, scope, and requ
 
 ## Sales Books
 
-<img src="" width="300px">
+- Sell Like Crazy: How To Get As Many Clients, Customers and Sales As You Can Possibly Handle
+
+<img src="https://m.media-amazon.com/images/I/41XO-uTq-tL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" width="300px">
 
 <img src="" width="300px">
 
