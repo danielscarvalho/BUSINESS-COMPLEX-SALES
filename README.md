@@ -32,6 +32,10 @@ Pre-sales engineering is high cost. It can be an initial design, scope, and requ
 
 <img src="https://m.media-amazon.com/images/I/51uexpnpxiL._SX333_BO1,204,203,200_.jpg" width="300px">
 
+- The Sales Engineer Manager's Handbook: Mastering Technical Sales, 2020
+
+<img src="https://m.media-amazon.com/images/P/B087GKLVBZ.01._SCLZZZZZZZ_SX500_.jpg" width="300px">
+
 - Don’t make me think by Steve Krug
 
 <img src="https://m.media-amazon.com/images/I/51WS36aA2BL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" width="300px">
