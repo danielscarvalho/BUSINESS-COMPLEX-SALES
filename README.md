@@ -59,3 +59,7 @@ Marketing should be really related and working toguether with sales
 - Hacking Growth by Sean Ellis and Morgan Brown
 
 <img src="https://m.media-amazon.com/images/I/514qnzJ6q1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="300px">
+
+- Influence, New and Expanded: The Psychology of Persuasion by Robert B. Cialdini
+
+<img src="https://m.media-amazon.com/images/I/51LBPCyw0qL.jpg" width="300px">
