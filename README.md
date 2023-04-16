@@ -44,6 +44,14 @@ Pre-sales engineering is high cost. It can be an initial design, scope, and requ
 
 <img src="https://user-images.githubusercontent.com/916663/216188482-cd954291-a133-4b97-9bf9-39f09f38bb28.png" width="300px">
 
+- Expert Secrets: The Underground Playbook for Converting Your Online Visitors Into Lifelong Customers by Russell Brunson
+
+<img src="https://m.media-amazon.com/images/I/71hTcRHSz1L.jpg" width="300px">
+
+- Predictable Revenue: Turn Your Business Into a Sales Machine with the $100 Million Best Practices of Salesforce.com by Aaron Ross, Marylou Tyler
+
+<img src="https://m.media-amazon.com/images/I/61yAYYNvIVL.jpg" width="300px">
+
 ## Business Books
 
 Marketing should be really related and working toguether with sales
@@ -64,18 +72,10 @@ Marketing should be really related and working toguether with sales
 
 <img src="https://m.media-amazon.com/images/I/51LBPCyw0qL.jpg" width="300px">
 
-- Predictable Revenue: Turn Your Business Into a Sales Machine with the $100 Million Best Practices of Salesforce.com by Aaron Ross, Marylou Tyler
-
-<img src="https://m.media-amazon.com/images/I/61yAYYNvIVL.jpg" width="300px">
-
 - Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear
 
 <img src="https://m.media-amazon.com/images/I/51gJpbOQpHL.jpg" width="300px">
 
-- Expert Secrets: The Underground Playbook for Converting Your Online Visitors Into Lifelong Customers by Russell Brunson
-
-<img src="https://m.media-amazon.com/images/I/71hTcRHSz1L.jpg" width="300px">
-
-- Running Lean (English Edition) eBook Kindle by Ash Maurya 
+- Running Lean by Ash Maurya 
 
 <img src="https://m.media-amazon.com/images/I/41UhOM2H2NL.jpg" width="300px">
