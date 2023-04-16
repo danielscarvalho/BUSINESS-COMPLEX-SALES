@@ -63,3 +63,7 @@ Marketing should be really related and working toguether with sales
 - Influence, New and Expanded: The Psychology of Persuasion by Robert B. Cialdini
 
 <img src="https://m.media-amazon.com/images/I/51LBPCyw0qL.jpg" width="300px">
+
+- Predictable Revenue: Turn Your Business Into a Sales Machine with the $100 Million Best Practices of Salesforce.com by Aaron Ross, Marylou Tyler
+
+<img src="https://m.media-amazon.com/images/I/61yAYYNvIVL.jpg" width="300px">
