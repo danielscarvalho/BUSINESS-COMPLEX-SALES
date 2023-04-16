@@ -72,4 +72,7 @@ Marketing should be really related and working toguether with sales
 
 <img src="https://m.media-amazon.com/images/I/51gJpbOQpHL.jpg" width="300px">
 
+- Expert Secrets: The Underground Playbook for Converting Your Online Visitors Into Lifelong Customers by Russell Brunson
+
+<img src="https://m.media-amazon.com/images/I/71hTcRHSz1L.jpg" width="300px">
 
