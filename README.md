@@ -67,3 +67,9 @@ Marketing should be really related and working toguether with sales
 - Predictable Revenue: Turn Your Business Into a Sales Machine with the $100 Million Best Practices of Salesforce.com by Aaron Ross, Marylou Tyler
 
 <img src="https://m.media-amazon.com/images/I/61yAYYNvIVL.jpg" width="300px">
+
+- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear
+
+<img src="https://m.media-amazon.com/images/I/51gJpbOQpHL.jpg" width="300px">
+
+
