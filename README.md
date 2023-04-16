@@ -76,3 +76,6 @@ Marketing should be really related and working toguether with sales
 
 <img src="https://m.media-amazon.com/images/I/71hTcRHSz1L.jpg" width="300px">
 
+- Running Lean (English Edition) eBook Kindle by Ash Maurya 
+
+<img src="https://m.media-amazon.com/images/I/41UhOM2H2NL.jpg" width="300px">
